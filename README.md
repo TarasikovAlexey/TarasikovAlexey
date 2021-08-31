@@ -1,4 +1,22 @@
-### Hi there 👋
+### <h1 align="center">Hi there 👋 !!!</h1>
+
+### <h2 align="center">I'm Alexey Tarasikov from Ukraine</h2>
+
+### <h3 align="center">I'm Junior Full stack JS, Python Developer</h3>
+
+### Tech Stack:
+- SQL (MongoDB, PostgreSQL);
+- Git, GitHub;
+- Docker, Linux Shell.
+
+### LANGUAGES:
+- English – basic;
+- Spanish – basic;
+- Ukrainian – in excellence;
+- Russian – in excellence.
+
+### SOFT SKILLS:
+Creativity, proactivity, teamwork, continuous & fast learning.
 
 <!--
 **TarasikovAlexey/TarasikovAlexey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
