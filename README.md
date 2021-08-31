@@ -1,8 +1,8 @@
 ### <h1 align="center">Hi there 👋 !!!</h1>
 
-### <h2 align="center">I'm Alexey Tarasikov from Ukraine</h2>
+### <h2 align="center">I'm Tarasikov Alexey from Ukraine</h2>
 
-### <h3 align="center">I'm Junior Full stack JS, Python Developer</h3>
+### <h3 align="center">I'm Junior Developer</h3>
 
 ### Tech Stack:
 - SQL (MongoDB, PostgreSQL);
